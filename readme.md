@@ -8,3 +8,14 @@ I had once written a program in ActionScript with a nice image manipulation. To 
 
 1. [Python](https://www.python.org/downloads/release/python-3105/) installieren
 2. [PyCharm](https://www.jetbrains.com/de-de/pycharm/download/download-thanks.html?platform=mac&code=PCC) installieren!
+
+## First Steps
+
+1. Open PyCharm
+2. Create a new project
+3. In the PyCharm Terminal, update pip
+ - `python -m pip install -U pip`
+4. 
+install scikit-image via pip-command
+	- python -m pip install -U pip
+ Installing [sci-image]()
