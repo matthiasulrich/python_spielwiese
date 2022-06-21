@@ -13,7 +13,6 @@ I had once written a program in ActionScript with a nice image manipulation. To 
 
 1. Open PyCharm
 2. Create a new project
-3. In the PyCharm Terminal, update pip
+3. In the PyCharm Terminal, update pip and install scikit-image
 	- `python -m pip install -U pip`
-4. Install scikit-image
 	- `python -m pip install -U scikit-image`
